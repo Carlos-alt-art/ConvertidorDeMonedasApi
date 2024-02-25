@@ -1,0 +1,11 @@
+.centered-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50vh; /* Ajusta la altura según tu necesidad */
+  }
+  
+  h2{
+    margin-bottom: 1em;
+  }
